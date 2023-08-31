@@ -56,12 +56,9 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
-
-
 ## server code:
-
-
+![1web](https://github.com/karthickop6/Echoserver/assets/72570119/443de717-1ead-425b-8dc1-1ffe9c3a4acd)
 ## client code:
-
+![2web](https://github.com/karthickop6/Echoserver/assets/72570119/ebd268f1-6185-4aab-88fb-cddd8e7ceedc)
 ## RESULT:
 The program is executed successfully
